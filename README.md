@@ -4,9 +4,9 @@ This is a Pomodoro project developed using pure JavaScript. Pomodoro is a time m
 
 ## Features
 
-Pomodoro Timer: Set the work time and start the timer.
-Notifications: Receive auditory notifications when the work time is over.
-Countdown: View the real-time remaining time for work or break.
+- Pomodoro Timer: Set the work time and start the timer.
+- Notifications: Receive auditory notifications when the work time is over.
+- Countdown: View the real-time remaining time for work or break.
 
 ## Requirements
 
